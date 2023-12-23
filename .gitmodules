@@ -1,0 +1,6 @@
+[submodule "path/to/SystemStatusMonitor"]
+	path = path/to/SystemStatusMonitor
+	url = https://github.com/advancedsoftwarecanada/SystemStatusMonitor.git
+[submodule "path/to/filemanager"]
+	path = path/to/filemanager
+	url = https://github.com/advancedsoftwarecanada/filemanager.git
